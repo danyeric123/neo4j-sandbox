@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 neo4j-driver = "*"
 python-dotenv = "*"
+neomodel = "*"
 
 [dev-packages]
 yapf = "*"
